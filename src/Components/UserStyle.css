@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+    padding: 2rem;
+}
+
+.user_div{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+   
+
